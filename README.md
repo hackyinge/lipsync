@@ -6,4 +6,4 @@
 
 这是Unity的软件包：https://doi.org/10.5281/zenodo.5765691
 
-参考文献：Llorach，G.，Evans，A.，Blat，J.，Grimm，G.和Hohmann，V.，2016年9月。基于Web的实时语音驱动唇形同步。在2016年第8届国际游戏和虚拟世界应用会议（VS-GAMES）（第1-4页）。IEEE。
+参考文献：Llorach，G.，Evans，A.，Blat，J.，Grimm，G.和Hohmann，V.，2016年9月。基于Web的实时语音驱动唇形同步。在2016年第8届国际游戏和虚拟世界应用会议（VS-GAMES）（第1-4页）。IEEE。https://github.com/gerardllorach/threelipsync
